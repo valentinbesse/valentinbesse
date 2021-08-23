@@ -34,5 +34,5 @@ I'm a passionate Software Developer with a desire to explore more about computer
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinbesse&layout=compact"
 />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=valentinbesse&layout=compact"
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=valentinbesse"
 />
