@@ -35,7 +35,7 @@ I'm a passionate Software Developer/Architect with a desire to explore more abou
 ### Personnal statistics
 
 <img 
-     src="https://github-readme-stats.vercel.app/api?username=valentinbesse&count_private=true&theme=radical&show_icons=true"
+     src="https://github-readme-stats.vercel.app/api?username=valentinbesse&count_private=true&theme=radical&show_icons=true&include_all_commits=true"
 />
 
 <img
@@ -49,8 +49,9 @@ I'm a passionate Software Developer/Architect with a desire to explore more abou
 ### Professional statistics
 
 <img 
-     src="https://github-readme-stats.vercel.app/api?username=vbesse&count_private=true&theme=radical&show_icons=true"
+     src="https://github-readme-stats.vercel.app/api?username=vbesse-yf&count_private=true&theme=radical&show_icons=true&include_all_commits=true" 
 />
+
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbesse-yf&layout=compact"
