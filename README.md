@@ -50,6 +50,8 @@ I'm a passionate Software Developer/Architect with a desire to explore more abou
 
 ### Professional statistics
 
+<a href="https://wakatime.com/@5cb458af-4d79-4b1f-a560-f3aea18a3a6d"><img src="https://wakatime.com/badge/user/5cb458af-4d79-4b1f-a560-f3aea18a3a6d.svg" alt="Total time coded since Aug 17 2021" /></a>
+
 <img 
      src="https://github-readme-stats.vercel.app/api?username=vbesse-yf&count_private=true&theme=radical&show_icons=true&include_all_commits=true" 
 />
