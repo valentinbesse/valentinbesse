@@ -45,7 +45,7 @@ I'm a passionate Software Developer/Architect with a desire to explore more abou
 />
 
 <img 
-     src="https://github-readme-stats.vercel.app/api/wakatime?username=vbesse"
+     src="https://github-readme-stats.vercel.app/api/wakatime?username=valentinbesse"
 />
 
 ### Professional statistics
