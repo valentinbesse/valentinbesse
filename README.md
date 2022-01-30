@@ -31,8 +31,23 @@ I'm a passionate Software Developer/Architect with a desire to explore more abou
 <img alt="Arch Linux" src="https://img.shields.io/badge/Arch Linux-1793D1?logo=Arch+Linux&logoColor=white&style=flat" />
 <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?logo=CentOS&logoColor=white&style=flat" />
 <img src="https://github-readme-stats.vercel.app/api?username=valentinbesse&count_private=true&theme=radical&show_icons=true" />
+
+### Personnal statistics
+
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinbesse&layout=compact"
 />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=valentinbesse"
+
+<img 
+     src="https://github-readme-stats.vercel.app/api/wakatime?username=valentinbesse"
+/>
+
+### Professional statistics
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbesse-yf&layout=compact"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=vbesse"
 />
