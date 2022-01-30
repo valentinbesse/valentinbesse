@@ -34,7 +34,7 @@ I'm a passionate Software Developer/Architect with a desire to explore more abou
 
 ### Personnal statistics
 
-[![wakatime](https://wakatime.com/badge/user/3ff551d2-8972-4061-a1c3-167c10cc9cb1.svg)](https://wakatime.com/@3ff551d2-8972-4061-a1c3-167c10cc9cb1)
+<img src="https://wakatime.com/badge/user/3ff551d2-8972-4061-a1c3-167c10cc9cb1.svg" alt="Total time coded since Jul 10 2021" />
 
 <img 
      src="https://github-readme-stats.vercel.app/api?username=valentinbesse&count_private=true&theme=radical&show_icons=true&include_all_commits=true"
