@@ -5,7 +5,6 @@ I'm a passionate Software Developer/Architect with a desire to explore more abou
 *   :books: I'm currently learning - ASP.NET (.NET 6), Blockchain, Azure Cloud Solutions, Software Security.
 *   :speech_balloon: Ask me about - .NET, Powershell, Azure, Matlab.
 *   📫  How to reach me: <a href="https://www.linkedin.com/in/valentin-besse/" ><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=LinkedIn&logoColor=&style=flat" /> </a> <a href="mailto:valentinbesse@aumbox.net" ><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=flat" /> </a>
-*   :nerd_face: My professional GitHub account: <a href="https://github.com/vbesse-yf" ><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=&style=flat" /> </a>
 
 ### Have worked in:
 <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
@@ -46,21 +45,4 @@ I'm a passionate Software Developer/Architect with a desire to explore more abou
 
 <img 
      src="https://github-readme-stats.vercel.app/api/wakatime?username=valentinbesse"
-/>
-
-### Professional statistics
-
-<a href="https://wakatime.com/@5cb458af-4d79-4b1f-a560-f3aea18a3a6d"><img src="https://wakatime.com/badge/user/5cb458af-4d79-4b1f-a560-f3aea18a3a6d.svg" alt="Total time coded since Aug 17 2021" /></a>
-
-<img 
-     src="https://github-readme-stats.vercel.app/api?username=vbesse-yf&count_private=true&theme=radical&show_icons=true&include_all_commits=true" 
-/>
-
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbesse-yf&layout=compact"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=vbesse"
 />
