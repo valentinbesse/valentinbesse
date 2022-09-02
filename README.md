@@ -1,6 +1,6 @@
 ### Hi, it's Valentin here 👋
 
-I'm a passionate Software Developer/Architect with a desire to explore more about computer science and software development :smile: 
+I'm a passionate Software Craftma with a desire to explore more about computer science and software development :smile: 
 *   :man_technologist: I'm currently working on web applications used by banks and insurance companies.
 *   :books: I'm currently learning: ASP.NET (.NET 6), Blockchain, Azure Cloud Solutions, Software Security.
 *   :speech_balloon: Ask me about: .NET, Powershell, Azure, Matlab.
