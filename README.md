@@ -7,8 +7,9 @@ I'm a passionate Software Craftma with a desire to explore more about computer s
 *   📫  How to reach me: <a href="https://www.linkedin.com/in/valentin-besse/" ><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=LinkedIn&logoColor=&style=flat" /> </a> <a href="mailto:valentinbesse@aumbox.net" ><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=flat" /> </a>
 
 ### Have worked in:
-<img alt=".Net" src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white&style=flat" />
-<img alt="Blazor" src="https://img.shields.io/badge/Blazor-512BD4?logo=dotnet&logoColor=white&style=flat" />
+<img alt="Blazor" src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white&style=flat" />
+<img alt=".Net" src="https://img.shields.io/badge/.Net-512BD4?logo=dotnet&logoColor=white&style=flat" />
+<img alt="ASP.Net Core" src="https://img.shields.io/badge/ASP.Net Core-512BD4?logo=blazor&logoColor=white&style=flat" />
 <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
 <img alt="VB.Net" src="https://img.shields.io/badge/VB.NET-512BD4?logo=.NET&logoColor=white&style=flat" />
 <img alt="SQL" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat" />
