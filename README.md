@@ -1,12 +1,15 @@
-### Hi, it's Valentin here 👋
+<h1 align="center">Hi there👋, I'm Valentin Besse</h1>
+<h3 align="center">Buidling application using .NET, C# and JS | A senior software developer from France</h3>
 
+<p align="left"> <a href="https://twitter.com/neantvbesse" target="blank"><img src="https://img.shields.io/twitter/follow/neantvbesse?logo=twitter&style=for-the-badge" alt="neantvbesse" /></a> </p>
 <a href="https://wakatime.com/@3ff551d2-8972-4061-a1c3-167c10cc9cb1"><img src="https://wakatime.com/badge/user/3ff551d2-8972-4061-a1c3-167c10cc9cb1.svg" alt="Total time coded since Jul 10 2021" /></a>
 
-I'm a passionate Software Craftman with a desire to explore more about computer science and software development :smile: 
-*   :man_technologist: I'm currently working on web applications used by banks and insurance companies.
-*   :books: I'm currently learning: ASP.NET Core, Blockchain, Azure Cloud Solutions, Software Security.
-*   :speech_balloon: Ask me about: .NET, Blazor, Powershell, Azure.
-*   📫  How to reach me: <a href="https://www.linkedin.com/in/valentin-besse/" ><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=LinkedIn&logoColor=&style=flat" /> </a> <a href="mailto:valentinbesse@aumbox.net" ><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=flat" /> </a>
+I'm a Software Developer passionate Software Craftmanship :smile: 
+*   🔭 2023 Goal **Build more projects in Web3 Space and contribute in Open Source**
+*   :man_technologist: I'm currently working **on web applications for insurance companies**
+*   :books: I'm currently learning **ASP.NET Core, Clean Architecture**
+*   :speech_balloon: Ask me about **.NET, Blazor, C#, Powershell, Azure**
+*   📫  How to reach me: <a href="https://www.linkedin.com/in/valentin-besse/" ><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=LinkedIn&logoColor=&style=flat" /> </a> <a href="mailto:vbesse@aumbox.io" ><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=flat" /> </a>
 
 <img 
      src="https://github-readme-stats.vercel.app/api?username=valentinbesse&count_private=true&theme=radical&show_icons=true&include_all_commits=true"
