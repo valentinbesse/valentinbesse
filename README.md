@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Valentin Besse</h1>
-<h3 align="center">Buidling application using .NET, C# and JS | A senior software developer from France</h3>
+<h3 align="center">Buidling application using .NET, C# and JS</h3>
 
 <p align="left"> <a href="https://twitter.com/neantvbesse" target="blank"><img src="https://img.shields.io/twitter/follow/neantvbesse?logo=twitter&style=for-the-badge" alt="neantvbesse" /></a> </p>
 <a href="https://wakatime.com/@3ff551d2-8972-4061-a1c3-167c10cc9cb1"><img src="https://wakatime.com/badge/user/3ff551d2-8972-4061-a1c3-167c10cc9cb1.svg" alt="Total time coded since Jul 10 2021" /></a>
