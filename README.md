@@ -6,8 +6,8 @@
 
 I'm a Software Developer passionate by Software Craftmanship :smile: 
 *   🔭 2023 Goal **Contribute in Open Source**
-*   :man_technologist: I'm currently working on **web applications for insurance companies**, **web application to help physician to promote sport as a cure** and **on SQL**
-*   :books: I'm currently learning **ASP.NET Core, Clean Architecture and MongoDB**
+*   :man_technologist: Working on **web applications for insurance companies** and **to help physician to promote sport as a cure**.
+*   :books: Learning **NodeJS, Vue and MongoDB**
 *   :speech_balloon: Ask me about **.NET, Blazor, C#, Powershell, Azure, SQL**
 *   📫  How to reach me: <a href="https://www.linkedin.com/in/valentin-besse/" ><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=LinkedIn&logoColor=&style=flat" /> </a> <a href="mailto:vbesse@aumbox.io" ><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=flat" /> </a>
 
