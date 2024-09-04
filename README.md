@@ -6,7 +6,7 @@
 
 I'm a Software Developer passionate by Software Craftmanship :smile: 
 *   🔭 2024 Goal **Lean about software testing**
-*   :man_technologist: Working on **web applications for insurance companies** and **to help physician to promote sport as a cure**.
+*   :man_technologist: Working on **software testing for healthtech company** and **to help physician to promote sport as a cure**.
 *   :books: Learning **NodeJS, Vue and MongoDB**
 *   :speech_balloon: Ask me about **.NET, Blazor, C#, Powershell, Azure, SQL**
 *   📫  How to reach me: <a href="https://www.linkedin.com/in/valentin-besse/" ><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=LinkedIn&logoColor=&style=flat" /> </a> <a href="mailto:vbesse@aumbox.io" ><img alt="Mail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=flat" /> </a>
