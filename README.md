@@ -5,7 +5,7 @@
 <a href="https://wakatime.com/@3ff551d2-8972-4061-a1c3-167c10cc9cb1"><img src="https://wakatime.com/badge/user/3ff551d2-8972-4061-a1c3-167c10cc9cb1.svg" alt="Total time coded since Jul 10 2021" /></a>
 
 I'm a Software Developer passionate by Software Craftmanship :smile: 
-*   🔭 2023 Goal **Contribute in Open Source**
+*   🔭 2024 Goal **Lean about software testing**
 *   :man_technologist: Working on **web applications for insurance companies** and **to help physician to promote sport as a cure**.
 *   :books: Learning **NodeJS, Vue and MongoDB**
 *   :speech_balloon: Ask me about **.NET, Blazor, C#, Powershell, Azure, SQL**
